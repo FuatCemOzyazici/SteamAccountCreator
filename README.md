@@ -1,2 +1,2 @@
 # SteamAccountCreator
-Steam Account Creator with autoit
+A Macro project for creating Steam accounts automatically.
